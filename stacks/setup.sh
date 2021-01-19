@@ -115,7 +115,7 @@ logger "red" "*** create origin service succeed ***"
 
 web(){
 web/stacks/install.sh
-logger "red" "*** create origin service succeed ***"
+logger "red" "*** create web service succeed ***"
 }
 
 get-login()
